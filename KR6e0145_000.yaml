@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0145/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法界宗蓮花章
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1027.xml
+    old_id: X58n1027
+hash: sha256:7cb57fe7322ec0cf22567ea5b65662b152a61afd41cc033b0b6e317dc4f96d54
