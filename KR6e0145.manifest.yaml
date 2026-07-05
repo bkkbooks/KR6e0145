@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0145_000.yaml, hash: 'sha256:7cb57fe7322ec0cf22567ea5b65662b152a61afd41cc033b0b6e317dc4f96d54'}
-  - {seq: 1, filename: KR6e0145_001.yaml, hash: 'sha256:f33eb745005e1b5c77d49526abdf26989d94bd1188df8a5afad6e8ee796ea7a3'}
+  - {seq: 1, filename: KR6e0145_001.yaml, hash: 'sha256:a166cbb4dc54baad3f110ce9d25479b3b89053a0f864cc94ef287dfe644301ed'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0145_001.markers.yaml, hash: 'sha256:3c8e9294c6c4cadea041451a8add369863168971c6b28aa707efe8707d9de46f'}
+  - {seq: 0, role: markers, filename: assets/KR6e0145_000.markers.yaml, hash: 'sha256:f10dc9f7319a6cc022c5f28e55425b39427e8d27931ce052d0621513d2eaa4d8'}
+  - {seq: 1, role: markers, filename: assets/KR6e0145_001.markers.yaml, hash: 'sha256:3af90aa7a9ac9ca0a0f61b04341fe5c9889915ad53960d4aab9d36c37a961f4a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 法界宗蓮花章
   type: juan
   level: 1
-hash: sha256:f17add4f417305d2f8a6226af36592729c00aebf9f8569391a3baa61e2490fee
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c95679904390caef129cf52df7be2438e4ad139789a7b4194ffdb9e46f56f9e3
